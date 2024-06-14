@@ -15,3 +15,8 @@ Maven: Version 3.6 or higher.
 Node.js and npm: Latest LTS version recommended.
 MySQL: For database management.
 Angular CLI: Latest version recommended.
+
+
+![image_720](https://github.com/tebernal/Task-Management-System-Backend/assets/162180112/2488f86e-7b30-4782-8d6d-23fc139339dd)
+![image_720](https://github.com/tebernal/Task-Management-System-Backend/assets/162180112/5db93e07-119b-486e-bb85-88b59d2cd112)
+![image_720](https://github.com/tebernal/Task-Management-System-Backend/assets/162180112/11eab00f-4aea-4579-9ce0-818317c1e19a)
